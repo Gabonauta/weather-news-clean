@@ -1,4 +1,4 @@
-# weather
+# NewsApi
 
 A new Flutter project to connect the [NewsAPI] (https://newsapi.org/) presenting the ultimate news from US.
 
