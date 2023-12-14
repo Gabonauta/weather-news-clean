@@ -33,6 +33,9 @@ https://github.com/Gabonauta/weather-news-clean/assets/30781044/bb1ea971-9b89-41
   ionicons: ^0.1.2
   #make request to api
   retrofit: ^4.0.3
+## Flutter Doctor
+Flutter 3.16.3
+vs Code version 1.85.1
 
 ## Getting Started ?
 
