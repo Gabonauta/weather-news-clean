@@ -14,6 +14,7 @@ https://github.com/Gabonauta/weather-news-clean/assets/30781044/bb1ea971-9b89-41
 
 ## Architecture
   -clean
+  https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg
 ## Packages
   cached_network_image: ^3.3.0
   cupertino_icons: ^1.0.2
